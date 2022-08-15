@@ -39,3 +39,6 @@ bin-int/
 
 # Files
 *.user
+
+venv/
+Hazel/build

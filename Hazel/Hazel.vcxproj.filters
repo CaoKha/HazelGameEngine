@@ -49,6 +49,12 @@
     <ClInclude Include="src\Hazel\Core\KeyCodes.h">
       <Filter>Hazel\Core</Filter>
     </ClInclude>
+    <ClInclude Include="src\Hazel\Core\Layer.h">
+      <Filter>Hazel\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Hazel\Core\LayerStack.h">
+      <Filter>Hazel\Core</Filter>
+    </ClInclude>
     <ClInclude Include="src\Hazel\Core\Log.h">
       <Filter>Hazel\Core</Filter>
     </ClInclude>
@@ -56,6 +62,9 @@
       <Filter>Hazel\Core</Filter>
     </ClInclude>
     <ClInclude Include="src\Hazel\Core\PlatformDetection.h">
+      <Filter>Hazel\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Hazel\Core\Timestep.h">
       <Filter>Hazel\Core</Filter>
     </ClInclude>
     <ClInclude Include="src\Hazel\Core\Window.h">
@@ -92,6 +101,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Hazel\Core\Application.cpp">
+      <Filter>Hazel\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Hazel\Core\Layer.cpp">
+      <Filter>Hazel\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Hazel\Core\LayerStack.cpp">
       <Filter>Hazel\Core</Filter>
     </ClCompile>
     <ClCompile Include="src\Hazel\Core\Log.cpp">
