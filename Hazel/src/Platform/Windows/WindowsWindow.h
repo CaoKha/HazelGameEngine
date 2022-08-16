@@ -1,6 +1,7 @@
 #pragma once
 
 #include "Hazel/Core/Window.h"
+#include <Platform/OpenGL/OpenGLContext.h>
 
 namespace Hazel
 {
